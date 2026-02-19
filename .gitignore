@@ -1,0 +1,14 @@
+# API Credentials
+.baoyu-skills/.env
+
+# macOS
+.DS_Store
+
+# Backup files
+*.backup-*
+*-formatted.md
+
+# Temporary files (in root)
+/*.html
+/*.png
+/prompts/
